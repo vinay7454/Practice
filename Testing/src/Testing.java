@@ -23,7 +23,7 @@ public class Testing {
 			int i = 0, j = letter.length - 1;
 			//here we want to do is 
 			while(i <= j) {
-				if() {
+				if(true) {
 				if(map.containsKey(letter[i])) {
 					if(map.get(letter[i]).equals(word[i])) {
 						
