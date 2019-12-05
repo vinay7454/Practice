@@ -29,7 +29,7 @@ public class MergeSortedArray {
 		int[] arr1 = {1,2,4,8};
 		int[] arr2 = {3,4,5,7,9};
 		
-		int[] arr3 = usingPriorityQueue(arr1, arr2);
+		//int[] arr3 = usingPriorityQueue(arr1, arr2);
 		
 		for(int l = 0; l < arr3.length; l++) {
 			System.out.print(arr3[l] + " ");
